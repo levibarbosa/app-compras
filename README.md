@@ -2,7 +2,7 @@
   Lista De Compras
 </h2>
 
-### Funções
+### :computer: Funções
 
 - Inserir
 - Remover
@@ -10,7 +10,7 @@
 - Reiniciar
 - Sair
 
-### Descrição
+### :memo: :pencil: Descrição
 
 <p>
   Lista de compras alocada dinâmicamente divididas em quatros categorias ordenadas por prioridade.
