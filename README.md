@@ -1,8 +1,6 @@
 <h2 align="center">
-  Lista Simplesmente Encadeada Ordenada Por Prioridade
+  Lista De Compras
 </h2>
-
-## Lista de Compras
 
 ### Funções
 
@@ -12,6 +10,10 @@
 - Reiniciar
 - Sair
 
+### Descrição
+
+<p>
+  Lista de compras alocada dinâmicamente divididas em quatros categorias ordenadas por prioridade.
 
 ## :memo: Licença
 
