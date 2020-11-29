@@ -7,6 +7,11 @@
 ### Funções
 
 - Inserir
+- Remover
+- Mostrar (tudo ou categoria)
+- Reiniciar
+- Sair
+
 
 ## :memo: Licença
 
