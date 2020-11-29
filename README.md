@@ -1,5 +1,5 @@
 <h2 align="center">
-  Lista Simplesmente Encadeada Ordenada Por Prioridade E Categoria
+  Lista Simplesmente Encadeada Ordenada Por Prioridade
 </h2>
 
 ## Lista de Compras
