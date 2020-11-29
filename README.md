@@ -10,7 +10,7 @@
 - Reiniciar
 - Sair
 
-### :memo: :pencil: Descrição
+### :clipboard: Descrição
 
 <p>
   Lista de compras alocada dinâmicamente divididas em quatros categorias ordenadas por prioridade.
